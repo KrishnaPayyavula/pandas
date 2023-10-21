@@ -1,2 +1,2 @@
-# pandas
-few worksouts on pandas and numpy
+# pandas and numpy workouts on data analysis and visualization.
+
